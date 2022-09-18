@@ -1,4 +1,4 @@
-# 4DayWorkWeeks
+# 4 Day Work Weeks Only
 List of companies with 4 day work weeks
 
 # A - C
